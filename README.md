@@ -5,7 +5,7 @@
 * Install Docker locally 
 https://docs.docker.com/docker-for-mac/install/
 
-
+From the shell, within this repo, run:
 ```sh
 docker-compose up
 ```
